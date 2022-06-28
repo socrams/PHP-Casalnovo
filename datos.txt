@@ -1,0 +1,4 @@
+a Nombre: sss| Direccion: sss| JyQ: | Napo: sss| Muzza: sss
+a Nombre: sss| Direccion: sss| JyQ: Ninguna| Napo: Ninguna| Muzza: Ninguna
+a Nombre: bbb| Direccion: ccc| JyQ: Ninguna| Napo: Ninguna| Muzza: Ninguna
+a Nombre: xxx| Direccion: www| JyQ: Ninguna| Napo: 1| Muzza: 2
